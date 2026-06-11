@@ -732,7 +732,7 @@ Output:
 /* 
 const totalCharacters = ["JavaScript","React","Node"].reduce((accumulator, value) => accumulator + value.length, 0);
 console.log(totalCharacters);
- */
+*/
  
 
 /* Q40 ⭐ Ultra Hard
